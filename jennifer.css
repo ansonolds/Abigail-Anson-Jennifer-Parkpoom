@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    color: rgb(11, 73, 11);
+    font-family: 'Comforter Brush', cursive;
+    font-size: xx-large;
+}
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(11, 73, 11);
+}
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(11, 73, 11);
+}
+h4 {
+    color:maroon
+
+} 
+body {
+    background-color: rgb(144, 238, 144, 0.5);
+}
+img {
+    float: left;
+  }
+ 
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table td{
+    border-collapse: collapse;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inset{
+    background-color: white;
+    padding: 10px 70px 10px 70px;
+    margin: 5px;
+    table border: none;
+}
+.recipe{
+    margin: 40px;
+}
